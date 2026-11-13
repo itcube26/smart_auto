@@ -1,0 +1,4 @@
+.codex-output/
+.codex-finalizer/
+.codex-build-smart-auto/
+content.ndjson
